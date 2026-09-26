@@ -6,10 +6,10 @@ Originally published at [NTSD and SOS: StopOnException](https://blogs.msdn.micro
 
 ## Building
 
-```text
-csc program.cs
-program.exe
-```
+<!-- Console -->
+
+    csc program.cs
+    program.exe
 
 ## Note
 
